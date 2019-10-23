@@ -1,10 +1,5 @@
 # TP d'initiation à MQTT
 
-Questions supplémentaires : 
+Le sujet du TP est accessible dans le fichier MQTT_mep.pdf.
 
-1. Réexpliquez le fonctionnement de MQTT
-2. Qu'est ce que Paho ?
-3. Connect flag: quel code pour quelle réponse ?
-4. Pourquoi retain, quel intérêt ?
-5. Exemples d'utilisation de MQTT ?
-6. Que permettent de faire les jocker ? Donnez des exemples !
+Merci de me retourner à la fin de la séance les réponses aux questions 1 à 11 à l'adresse mail: leo.mendiboure@labri.fr
